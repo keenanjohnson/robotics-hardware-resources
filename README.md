@@ -1,6 +1,7 @@
-# robotics-hardware-resources
+# Robotics Hardware Resources
 A collection of notes about hardware resources for building robotics or hardware projects!
 
+Contributions are definitely welcome! Feel free to open an issue or PR with any suggestions!
 
 # Hardwre Reccomendations
 ## Ethernet Switches
